@@ -11,5 +11,6 @@ Welcome to the Study App! This application is designed to help students and lear
 To get started with the Study App, follow these instructions:
 
 ### Prerequisites
+
 - Node.js and npm (or yarn) installed on your machine.
 - A code editor (e.g., Visual Studio Code).
